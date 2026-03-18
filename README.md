@@ -12,6 +12,6 @@ Construction et lancement du Docker :
 - cd Bureau/covid_pipi_docker
 - docker build -t covid_pipi_docker .
 - docker run --rm -v "$PWD:/app" covid_pipi_docker
-
-Source des données : https://odisse.santepubliquefrance.fr/explore/dataset/sum-eau-indicateurs/information/
-Prévisualisation du résultat : https://drive.proton.me/urls/5AVHE7P2GG#Hbyp0kdUeqSF
+----
+  - Source des données : https://odisse.santepubliquefrance.fr/explore/dataset/sum-eau-indicateurs/information/
+  - Prévisualisation du résultat : https://drive.proton.me/urls/5AVHE7P2GG#Hbyp0kdUeqSF
