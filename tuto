@@ -1,5 +1,0 @@
-cd Bureau/covid_pipi_docker
-
-docker build -t covid_pipi_docker .
-
-docker run --rm -v "$PWD:/app" covid_pipi_docker
