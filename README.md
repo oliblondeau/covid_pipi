@@ -1,5 +1,5 @@
 # covid_pipi
-Surveillance du COVID dans les eau x usées à Besançon
+Surveillance du COVID dans les eaux usées à Besançon
 
 Script python visant à télécharger les données de COVID dans les eaux usées et à les comparer avec les données nationales
 
