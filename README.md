@@ -5,8 +5,8 @@ Script python visant à télécharger les données de COVID dans les eaux usées
 
 Installation
 1. Installer Python
-2.      "    Doker
-3. Placer les fichier dockerfile et script.py dans un même répertoire.
+2.  Installer Doker
+3. Placer les fichier dockerfile et script.py dans un même répertoire (ici sur le bureau)
 
 Construction et lancement du Docker : 
 - cd Bureau/covid_pipi_docker
