@@ -1,2 +1,15 @@
 # covid_pipi
 Surveillance du COVID dans les eau x usées à Besançon
+
+Script python visant à télécharger les données de COVID dans les eaux usées et à les comparer avec les données nationales
+
+Installation
+1. Installer Python
+2.    "      Doker
+3. Placer les fichier dockerfile et script.py dans un même répertoire.
+
+Construction et lancement du Docker : cd Bureau/covid_pipi_docker
+                          docker build -t covid_pipi_docker .
+                          docker run --rm -v "$PWD:/app" covid_pipi_docker
+
+Source des données : https://odisse.santepubliquefrance.fr/explore/dataset/sum-eau-indicateurs/information/
