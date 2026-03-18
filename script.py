@@ -218,7 +218,7 @@ def main():
     if os.path.exists(old_sum):
         os.remove(old_sum)
 
-    print(f"\n✅ SEUL LE PDF RESTE DANS data/:")
+    
     print(f"📄 {pdf_name}")
     print("🗑️  PNG supprimé automatiquement")
 
